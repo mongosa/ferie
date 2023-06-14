@@ -1,1 +1,2 @@
 # ferie
+Litt kode
